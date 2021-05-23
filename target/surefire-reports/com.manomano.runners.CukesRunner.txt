@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.manomano.runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 70.301 s <<< FAILURE! - in com.manomano.runners.CukesRunner
+Numbers of products check(Products Numbers at search)  Time elapsed: 26.435 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[5] products found> but was:<[4] products found>
+
